@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Jesse Storimer", "Bert Goethals", "James Gifford", "Scott Carleton"]
   s.summary     = %q{Process your Paperclip attachments in the background}
   s.description = %q{Process your Paperclip attachments in the background with ActiveJob}
-  s.email       = %w{jJobTeaser}
+  s.email       = %w{dev@jobteaser.com}
   s.homepage    = %q{https://github.com/jobteaser/delayed_paperclip}
 
   s.required_ruby_version = ">= 2.0.0"
